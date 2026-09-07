@@ -12,7 +12,7 @@ Il consiste à concevoir une base de données de gestion du personnel pour une e
 * **Tri et Restitution :** Organisation des résultats avec `ORDER BY`, `LIMIT` et utilisation des alias (`AS`).
 
 ## Technologies Utilisees
-* **SGBD :** MySQL / MariaDB (WampServer)
+* **SGBD :** MySQL  (WampServer)
 * **Éditeur de code :** Visual Studio Code (Extension SQLTools)
 * **Langage :** SQL
 
